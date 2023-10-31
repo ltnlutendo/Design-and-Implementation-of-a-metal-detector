@@ -24,7 +24,7 @@ Metal detectors are essential tools used for various applications, including sec
 ## Software and Code
 - Arduino IDE: Used for programming the Teensy 4.0.
 - Julia via Jupyter notebooks
-- Dart for Mobile app
+
 
 
 
@@ -34,7 +34,7 @@ details to follow upon completion
 ## Results
 ...to be added
 ## License
-This project is released under the [License Name] license. See the [LICENSE](LICENSE) file for details.
+This project is released under the Creatice Commons license. See the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
 - Lutendo Mulaisi
